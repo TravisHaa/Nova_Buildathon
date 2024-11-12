@@ -63,7 +63,7 @@ const ProfileScreen: React.FC = () => {
     <ScrollView style={styles.container}>
       
       <View style={styles.section}>
-        <Text style={styles.sectionTitle}>Current Role</Text>
+        <Text style={styles.sectionTitle}>Current Role:</Text>
         <View style={styles.userTypeContainer}>
           <TouchableOpacity
             style={[
