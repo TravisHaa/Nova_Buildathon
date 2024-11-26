@@ -1,9 +1,10 @@
 import firebase from 'firebase/compat/app';
 import { getDatabase } from 'firebase/database';
 import { initializeApp } from 'firebase/app';
+import secretapiKey from "/keys"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCTnCwSPs14P9s34rJXIrCrNA5-nW1RkV0",
+    apiKey: secretapiKey,
     authDomain: "leteam-a9091.firebaseapp.com",
     databaseURL: "https://leteam-a9091-default-rtdb.firebaseio.com",
     projectId: "leteam-a9091",
