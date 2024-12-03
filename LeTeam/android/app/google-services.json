@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "568744918599",
+    "firebase_url": "https://leteam-a9091-default-rtdb.firebaseio.com/",
+    "project_id": "leteam-a9091",
+    "storage_bucket": "leteam-a9091.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568744918599:android:1987a53c87d7f6636dbb62",
+        "android_client_info": {
+          "package_name": "com.leteam.le"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8FiUyMF1K3KzIbApi9NDok0fSLSjKCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

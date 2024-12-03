@@ -5,7 +5,8 @@ npm-debug.*
 *.jks
 *.p8
 *.p12
-*.key
+*.keys
+*.firebaseConfig.js
 *.mobileprovision
 *.orig.*
 web-build/

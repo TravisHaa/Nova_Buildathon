@@ -24,6 +24,15 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="addevent"
+        options={{
+          title: 'Add Event',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'add' : 'add'} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
         name="map"
         options={{
           title: 'Map',
